@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RecyclingApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sign_in">SignInActivity</string>
+    <string name="title_activity_what_uhave">WhatUHaveActivity</string>
+    <string name="title_activity_what_bottle">WhatBottleActivity</string>
+    <string name="title_activity_glass_bottle_one">GlassBottleOneActivity</string>
+    <string name="title_activity_glass_bottle_list">GlassBottleListActivity</string>
+    <string name="title_activity_glass_jar_photo">GlassJarPhotoActivity</string>
+
+</resources>
